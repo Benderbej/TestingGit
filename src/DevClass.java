@@ -4,6 +4,8 @@ public class DevClass {
         System.out.println("Your branch is up-to-date with 'origin/master'");
     }
 
-    public void newDevMethod(){}
+    public void newDevMethod(){
+        System.out.println("method work!");
+    }
 
 }
