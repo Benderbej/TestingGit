@@ -5,7 +5,9 @@ public class DifficultToMergeClass {
     }
 
     private void someMethod() {
-        
+
+        System.out.println("AAAAAAa");
+
     }
 
 }
