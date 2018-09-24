@@ -13,4 +13,8 @@ public class DevClass {
         return "newdev" + s;
     }
 
+    public String someDevMetod(String s){
+        return s + " kkk ";
+    }
+
 }
