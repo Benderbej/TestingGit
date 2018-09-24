@@ -8,4 +8,13 @@ public class DevClass {
         System.out.println("method work!");
     }
 
+    public String someDevMethod(String s){
+        System.out.println("method work!");
+        return "newdev" + s;
+    }
+
+    public String someDevMetod(String s){
+        return s + " kkk ";
+    }
+
 }
