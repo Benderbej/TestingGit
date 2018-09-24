@@ -1,7 +1,7 @@
 public class ProductionThing {
 
-    public void newProdMethod(){
-        new DevClass().newDevMethod();
+    public String newProdMethod(String s){
+        return s;
     }
 
 }
