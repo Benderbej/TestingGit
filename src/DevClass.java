@@ -17,4 +17,7 @@ public class DevClass {
         return s + " kkk ";
     }
 
+    public void someDevMethodByForth(){
+        System.out.println("ffdf");
+    }
 }
